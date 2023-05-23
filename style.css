@@ -1,0 +1,23 @@
+body {
+  background-color: blue;
+}
+h1 {
+  color: white;
+  font-size:100px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+img{
+  width: 45%;
+}
+li{
+  color:white;
+}
+.header {
+  background-color: black;
+  padding-left: 70px;
+}
+.footer {
+  background-color: orange;
+  padding-left: 10px;
+}
